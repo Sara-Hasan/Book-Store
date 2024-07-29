@@ -17,8 +17,8 @@ You can download Maven from [Maven's official website](https://maven.apache.org/
 	https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-12/R/eclipse-inst-jre-win64.exe
 
 ## Project files
-src/BookOnlineTest/BookStore - Contains the test cases.
-pom.xml - Maven configuration file with dependencies.
+* src/BookOnlineTest/BookStore - Contains the test cases.
+* pom.xml - Maven configuration file with dependencies.
 
 ## Running tests
 1. After opening the project, open .src/BookOnlineTest/BookStore.java 
@@ -28,10 +28,10 @@ OR
 mvn test
 
 ## Test Scenarios Covered
-Verify that the list of books is displayed correctly.
-Verify that a user can add a book to the cart.
-Verify that the cart updates correctly when a book is added.
-Verify that the user can proceed to checkout from the cart.
+1. Verify that the list of books is displayed correctly.
+2. Verify that a user can add a book to the cart.
+3. Verify that the cart updates correctly when a book is added.
+4. Verify that the user can proceed to checkout from the cart.
 
 ## Dependencies
 * Selenium WebDriver: For browser automation.
