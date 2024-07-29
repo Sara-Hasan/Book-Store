@@ -3,7 +3,7 @@
 This project is a sample test automation suite for an online bookstore using Selenium WebDriver with HTMLUnitDriver and TestNG in Java.
 The tests verify that the bookstore functionalities such as viewing the list of books, adding books to the cart, and proceeding to checkout work correctly.
 
-## Prerequisites
+## Basic requirements
 
 1. **Java Development Kit (JDK)**
    - Ensure you have JDK. You can download it from (https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe).
